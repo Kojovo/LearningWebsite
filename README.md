@@ -1,2 +1,3 @@
 # LearningWebsite
-Small website to learn how to write html and css
+
+This is a small website to learn how to write HTML and CSS by example
